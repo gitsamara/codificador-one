@@ -23,9 +23,13 @@ Batizado de Enigma em homenagem a máquina de criptografia de Turing.
 O conjunto de substituição definido na matriz de criptografia consiste em pares de caracteres, onde o primeiro caractere representa a letra original e o segundo caractere representa a substituição correspondente. Aqui está o conjunto de substituição especificado na matriz:
 
 **"a":** é substituído por "ai"
+
 **"e":** é substituído por "enter"
+
 **"i":** é substituído por "imes"
+
 **"o":** é substituído por "ober"
+
 **"u":** é substituído por "ufa"
 
 ## Como usar
