@@ -4,7 +4,7 @@ Challenge: Codificador e decodificador de texto em HTML, CSS e Javascript.
 
 ## Codificador e Decodificador de Texto
 
-Este é um sistema simples de criptografar e descriptografar texto desenvolvido em HTML, CSS e JavaScript como requisito do Programa ONE.
+Este é um sistema simples de criptografar e descriptografar texto desenvolvido em HTML, CSS e JavaScript, como requisito do Programa ONE.
 
 Batizado de Enigma em homenagem a máquina de criptografia de Turing.
 
