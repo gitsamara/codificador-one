@@ -4,7 +4,7 @@ Challenge: Codificador e decodificador de texto em HTML, CSS e Javascript.
 
 ## Codificador e Decodificador de Texto
 
-Este é um sistema simples de criptografar e descriptografar texto desenvolvido em HTML, CSS e JavaScript.
+Este é um sistema simples de criptografar e descriptografar texto desenvolvido em HTML, CSS e JavaScript como requisito do Programa ONE.
 
 Batizado de Enigma em homenagem a máquina de criptografia de Turing.
 
@@ -22,17 +22,17 @@ Batizado de Enigma em homenagem a máquina de criptografia de Turing.
 
 O conjunto de substituição definido na matriz de criptografia consiste em pares de caracteres, onde o primeiro caractere representa a letra original e o segundo caractere representa a substituição correspondente. Aqui está o conjunto de substituição especificado na matriz:
 
-- **"a":** é substituído por "ai"
-- **"e":** é substituído por "enter"
-- **"i":** é substituído por "imes"
-- **"o":** é substituído por "ober"
-- **"u":** é substituído por "ufa"
+**"a":** é substituído por "ai"
+**"e":** é substituído por "enter"
+**"i":** é substituído por "imes"
+**"o":** é substituído por "ober"
+**"u":** é substituído por "ufa"
 
 ## Como usar
 
 1. Abra o link:
    
-    [link aqui](https://codificador-one-five.vercel.app/)
+    https://codificador-one-five.vercel.app/
    
 2. Digite o texto que deseja criptografar no campo de entrada.
 3. Clique no botão "Criptografar" para converter o texto conforme as regras definidas.
