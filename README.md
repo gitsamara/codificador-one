@@ -8,7 +8,7 @@ Este é um sistema simples de criptografar e descriptografar texto desenvolvido 
 
 Batizado de Enigma em homenagem a máquina de criptografia de Turing.
 
-## Regras de Funcionalidade
+### Regras de Funcionalidade:
 
 - Apenas letras minúsculas e números são permitidos no texto de entrada;
 - A criptografia é realizada substituindo cada letra do texto de entrada por uma sequência específica de caracteres, de acordo com a matriz de criptografia definida;
@@ -18,7 +18,7 @@ Batizado de Enigma em homenagem a máquina de criptografia de Turing.
 - Mensagens de erro são exibidas caso o texto de entrada contenha caracteres não permitidos;
 - Um conjunto específico de substituições é definido na matriz de criptografia para realizar a criptografia e descriptografia.
 
-## Lógica da Matriz de Criptografia
+### Lógica da Matriz de Criptografia:
 
 O conjunto de substituição definido na matriz de criptografia consiste em pares de caracteres, onde o primeiro caractere representa a letra original e o segundo caractere representa a substituição correspondente. Aqui está o conjunto de substituição especificado na matriz:
 
@@ -32,7 +32,7 @@ O conjunto de substituição definido na matriz de criptografia consiste em pare
 
 **"u":** é substituído por "ufa"
 
-## Como usar
+### Como usar:
 
 1. Abra o link:
    
