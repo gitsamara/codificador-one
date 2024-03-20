@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Decodificador ONE</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header id="logoAlura">
+    <img src="assets/Frame 6.png" alt="logo alura">
+  </header>
+
+  <main id="conteudo">
+    <section id="conteudo_ladoEsquerdo">
+      <textarea id="conteudo_ladoEsquerdo_texto_textoDeEntrada" placeholder="Digite seu texto..." autofocus></textarea>
+      <div id="conteudo_ladoEsquerdo_exclamacao">
+        <img id="exclamacao" src="assets/bi_exclamation-circle-fill.png" alt="imagem exclamação">
+        <h4>Apenas letras minúsculas e sem acento.</h4>
+      </div>
+      <div id="conteudo_ladoEsquerdo_botoes">
+        <button id="conteudo_ladoEsquerdo_botoes_cript" onclick="Criptografia()">Criptografar</button>
+        <button id="conteudo_ladoEsquerdo_botoes_descript" onclick="Descriptografia()">Descriptografar</button>
+      </div>
+    </section>
+    <section id="conteudo_ladoDireito">
+      <textarea id="conteudo_ladoDireito_texto_textoDeSaida" cols="30" rows="30" contenteditable="true"
+        readonly></textarea>
+      <div id="mensagem">
+        <img id="conteudo_ladoDireito_imagem" src="assets/High quality products 1 1.png" alt="imagem lupa">
+        <h1 id="mensagemErro"></h1>
+        <p id="conteudo_ladoDireito_texto">Digite um texto que você deseja criptografar ou descriptografar.</p>
+      </div>
+      <div id="conteudo_ladoDireito_botoes">
+        <button id="botaoCopiar" onclick="copiarTexto()">Copiar</button>
+        <button id="botaoLimpar" onclick="limparTextoSaida()">Limpar</button>
+      </div>
+      <div id="mensagemSucesso" style="display: none;">Texto copiado com sucesso!</div>
+    </section>
+  </main>
+
+  <footer id="rodape">
+    <p>Desenvolvido por <a href="https://github.com/gitsamara"
+        title="Link para o perfil do GitHub de Samara Sales">Samara
+        Sales</a> para o programa ONE</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+
+</html>
