@@ -1,4 +1,4 @@
-# Desafio 1 Tuma T6 Programa ONE 
+# Desafio 1 (Etapa 2) - Tuma T6 - Programa ONE 
 
 Challenge: Codificador e decodificador de texto em HTML, CSS e Javascript.
 
